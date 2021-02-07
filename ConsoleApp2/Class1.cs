@@ -5,8 +5,6 @@ namespace ConsoleApp2
     {
         public Class1()
         {
-            
-            
         }
     }
 }
