@@ -9,9 +9,6 @@ namespace ConsoleApp2
             Console.WriteLine("Hello World!");
             Console.WriteLine("H");
             Console.WriteLine("W");
-            Console.WriteLine("W");
-            Console.WriteLine("W");
-            Console.WriteLine("W");
         }
     }
 }
